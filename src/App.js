@@ -23,7 +23,9 @@ import React from 'react';
 // 7-prop-drilling
 // import Setup from './tutorial/7-prop-drilling/setup/1-prop-drilling';
 // 8-useContext
-import Setup from './tutorial/8-useContext/setup/1-context-api';
+// import Setup from './tutorial/8-useContext/setup/1-context-api';
+// 9-custom-hooks
+import Setup from './tutorial/9-custom-hooks/setup/1-fetch-example';
 
 function App() {
   return (
