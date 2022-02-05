@@ -21,7 +21,9 @@ import React from 'react';
 // 6-useReducer
 // import Setup from './tutorial/6-useReducer/setup';
 // 7-prop-drilling
-import Setup from './tutorial/7-prop-drilling/setup/1-prop-drilling';
+// import Setup from './tutorial/7-prop-drilling/setup/1-prop-drilling';
+// 8-useContext
+import Setup from './tutorial/8-useContext/setup/1-context-api';
 
 function App() {
   return (
