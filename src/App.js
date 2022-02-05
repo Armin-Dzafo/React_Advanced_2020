@@ -19,7 +19,9 @@ import React from 'react';
 // 5-useRef
 // import Setup from './tutorial/5-useRef/setup/1-useRef-basics';
 // 6-useReducer
-import Setup from './tutorial/6-useReducer/setup';
+// import Setup from './tutorial/6-useReducer/setup';
+// 7-prop-drilling
+import Setup from './tutorial/7-prop-drilling/setup/1-prop-drilling';
 
 function App() {
   return (
