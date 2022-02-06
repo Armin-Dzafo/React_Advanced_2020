@@ -25,7 +25,9 @@ import React from 'react';
 // 8-useContext
 // import Setup from './tutorial/8-useContext/setup/1-context-api';
 // 9-custom-hooks
-import Setup from './tutorial/9-custom-hooks/setup/1-fetch-example';
+// import Setup from './tutorial/9-custom-hooks/setup/1-fetch-example';
+// 10-prop-types
+import Setup from './tutorial/10-prop-types/setup/index';
 
 function App() {
   return (
