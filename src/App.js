@@ -29,7 +29,9 @@ import React from 'react';
 // 10-prop-types
 // import Setup from './tutorial/10-prop-types/setup/index';
 // 11-react-router
-import Setup from './tutorial/11-react-router/setup/index';
+// import Setup from './tutorial/11-react-router/setup/index';
+// 12-memo-useMemo-useCallback
+import Setup from './tutorial/12-memo-useMemo-useCallback/setup/index';
 
 function App() {
   return (
