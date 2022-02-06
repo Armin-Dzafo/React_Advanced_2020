@@ -27,7 +27,9 @@ import React from 'react';
 // 9-custom-hooks
 // import Setup from './tutorial/9-custom-hooks/setup/1-fetch-example';
 // 10-prop-types
-import Setup from './tutorial/10-prop-types/setup/index';
+// import Setup from './tutorial/10-prop-types/setup/index';
+// 11-react-router
+import Setup from './tutorial/11-react-router/setup/index';
 
 function App() {
   return (
